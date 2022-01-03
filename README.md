@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kal-aalrajhi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JS, HTML, CSS
 - 📫 How to reach me kal.aalrajhi@gmail.com
 
