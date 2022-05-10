@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kal-aalrajhi
-- 🌱 I’m currently learning JS, HTML, CSS
+- 🌱 I’m currently learning JS, HTML, CSS and React
 - 📫 Email me at kal.aalrajhi@gmail.com
 
 <!---
