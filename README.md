@@ -5,7 +5,7 @@
 </div>  
 
 ### History  
-My background is in Philosophy and Mathematics, but my most productive years were working for the Denver Public Library's Cultural Inclusivity department developing and implementing programs to serve immigrant, refugee and asylee communities in the Denver area.  
+My background is in Philosophy and Mathematics, but my most productive years were working for the Denver Public Library's Cultural Inclusivity Department developing and implementing programs to serve immigrant, refugee and asylee communities in the Denver area.  
   
 
 ### What I am up to...  
