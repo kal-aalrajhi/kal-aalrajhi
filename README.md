@@ -43,7 +43,9 @@ My background is in Philosophy and Mathematics, but my most productive years wer
 
 ### Testing  
 <div align="center">  
-![cypress](https://user-images.githubusercontent.com/97044701/172026819-42f54c92-439a-47ef-8621-fde5a078b748.png)
+
+  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/97044701/172026819-42f54c92-439a-47ef-8621-fde5a078b748.png" alt="Mocha" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
 </div>
