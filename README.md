@@ -43,6 +43,7 @@ My background is in Philosophy and Mathematics, but my most productive years wer
 
 ### Testing  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cypress.png" alt="Cypress" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
 </div>
