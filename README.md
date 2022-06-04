@@ -9,10 +9,8 @@ My background is in Philosophy and Mathematics, but my most productive years wer
   
 
 ### What I am up to...  
--  I’m currently working on [Rancid Tomatillos](https://github.com/aominhlong/Rancid-Tomatillos).  
   
-
-- I’m learning React while using Cypress E2E Testing to drive development.  
+- Always learning!
   
 
 - I have a dog named Squiggles and another dog named Pancakez. They don't listen to me, but I still love them.  
